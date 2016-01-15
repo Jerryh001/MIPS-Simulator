@@ -1,0 +1,7 @@
+開發環境
+Windows 10
+Visual Studio 2015 Community
+
+執行
+以Visual Studio開啟 MIPS-Simulator.sln
+或是直接執行 MIPS-Simulator.exe 皆可
